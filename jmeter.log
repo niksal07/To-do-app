@@ -1,0 +1,20 @@
+2025-04-05 10:15:59,758 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-04-05 10:15:59,777 INFO o.a.j.JMeter: Loading user properties from: /opt/homebrew/Cellar/jmeter/5.6.3/libexec/bin/user.properties
+2025-04-05 10:15:59,778 INFO o.a.j.JMeter: Loading system properties from: /opt/homebrew/Cellar/jmeter/5.6.3/libexec/bin/system.properties
+2025-04-05 10:15:59,782 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-04-05 10:15:59,782 INFO o.a.j.JMeter: Version 5.6.3
+2025-04-05 10:15:59,782 INFO o.a.j.JMeter: java.version=21.0.6
+2025-04-05 10:15:59,782 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2025-04-05 10:15:59,782 INFO o.a.j.JMeter: os.name=Mac OS X
+2025-04-05 10:15:59,782 INFO o.a.j.JMeter: os.arch=aarch64
+2025-04-05 10:15:59,782 INFO o.a.j.JMeter: os.version=15.3.2
+2025-04-05 10:15:59,782 INFO o.a.j.JMeter: file.encoding=UTF-8
+2025-04-05 10:15:59,782 INFO o.a.j.JMeter: java.awt.headless=null
+2025-04-05 10:15:59,782 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-04-05 10:15:59,782 INFO o.a.j.JMeter: Available Processors =8
+2025-04-05 10:15:59,788 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-04-05 10:15:59,788 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-04-05 10:15:59,788 INFO o.a.j.JMeter: JMeterHome=/opt/homebrew/Cellar/jmeter/5.6.3/libexec
+2025-04-05 10:15:59,788 INFO o.a.j.JMeter: user.dir  =/Users/moalamnm/Desktop/To-Do-App
+2025-04-05 10:15:59,789 INFO o.a.j.JMeter: PWD       =/Users/moalamnm/Desktop/To-Do-App
+2025-04-05 10:15:59,792 INFO o.a.j.JMeter: IP: 192.168.1.11 Name: c889f3ed0a2c FullName: 192.168.1.11
