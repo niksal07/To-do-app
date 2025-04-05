@@ -1,4 +1,16 @@
-runs-on: ubuntu-latest
+on:
+ push:
+   branches:
+     - main
+ pull_request:
+   branches:
+     - main
+
+
+jobs:
+ unit-tests:
+   name: Run Unit Tests
+   runs-on: ubuntu-latest
 
 
    steps:
