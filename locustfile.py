@@ -5,4 +5,4 @@ class WebsiteUser(HttpUser):
 
     @task
     def load_test(self):
-self.client.get("/course/dsa-in-python/?source=pwskills.com&position=course_dropdown&from=home_page")
+        self.client.get("/course/dsa-in-python/?source=pwskills.com&position=course_dropdown&from=home_page")
